@@ -57,12 +57,13 @@ Mushroom-Project/
 ├── users.db           # SQLite database (auto-created)
 ├── README.md
 └── views/             # Streamlit page modules
-     ├── Home.py
-     ├── EdibilityChecker.py
-     ├── MushroomMlLab.py
-     ├── MushroomWisdom.py
-     └── Gallery.py
 ```
+---
+
+## 📷 Screenshots
+Here is snapshot of each pages.
+- Login:
+  ![Mushroom Classifier](images/mushroom-app.png)
 
 ## ⚙️ Technologies Used
 
