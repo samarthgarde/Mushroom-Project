@@ -10,7 +10,7 @@ This project aims to classify mushrooms as edible or poisonous using machine lea
 
 - [Demo](#-demo)
 - [Project Structure](#-project-structure)
-- [Scrrenshots](#-Screenshot)
+- [Scrrenshots](#-Screenshots)
 - [Technologies Used](#-technologies-used)
 - [Installation Guide](#-installation-guide)
 - [Authentication System](#-authentication-system)
