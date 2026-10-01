@@ -41,7 +41,6 @@ This project aims to classify mushrooms as edible or poisonous using machine lea
 
 🖥️ [Live Demo](https://mushroom-trio-classifier.onrender.com/) (https://mushroom-trio-classifier.onrender.com/)  
 
-
 ---
 
 ## 📂 Project Structure
@@ -63,7 +62,7 @@ Mushroom-Project/
 ## 📷 Screenshots
 Here is snapshot of each pages.
 - Login:
-  ![Mushroom Classifier](images/mushroom-app.png)
+  ![Mushroom Classifier]([images/mushroom-app.png](https://private-user-images.githubusercontent.com/168903254/663061729-b4b74078-8adc-4e94-aa9c-d1a454b4427f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA4NTc1ODYsIm5iZiI6MTc5MDg1NzI4NiwicGF0aCI6Ii8xNjg5MDMyNTQvNjYzMDYxNzI5LWI0Yjc0MDc4LThhZGMtNGU5NC1hYTljLWQxYTQ1NGI0NDI3Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMDAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTAwMVQxMjIxMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MzUxYzU5MDg4ZmJhM2ViN2E3MmRiZTYyZDFjYzNiMjhmZGY0MDRkZGFjNjU3YWM5NjY2MDI3NTUxODJmYWVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.PmLfvj6uMblT6jOMdOzbq6N34EfcaWpdroIuHFnbBdQ)
 
 ## ⚙️ Technologies Used
 
